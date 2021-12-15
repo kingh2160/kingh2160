@@ -1,5 +1,7 @@
+# KIM JEONG GYU
+
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={mantissa})](https://solved.ac/{mantissa})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=mantissa)](https://solved.ac/mantissa/)
 
 
 
